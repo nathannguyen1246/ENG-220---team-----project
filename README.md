@@ -5,6 +5,8 @@ Healthcare in the United States has long been a contentious topic. According to 
 
 Expected Contributions:
 
+Aren - Document Writing
+
 
 Conclusion:
 From this project, we have establised a GitHub repository that we can use to organize programs in our project. Additionally, all group members are now aware of how to commit/push changes to a GitHub repository. We've succesfully divided each important task amongst our group members for efficiency and transparency.
