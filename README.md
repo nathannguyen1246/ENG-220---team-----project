@@ -6,6 +6,12 @@ Healthcare in the United States has long been a contentious topic. According to 
 Expected Contributions:
 
 Aren - Document Writing
+Research - Aly
+Abstract - Anir
+Cleaning Data - Nathan
+GitHub - Nathan
+Plotting Data - Anir
+Video Creating - Mohamad
 
 
 Conclusion:
