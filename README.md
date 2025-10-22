@@ -7,7 +7,7 @@ Expected Contributions:
 
 Aren - Document Writing
 
-Research - Aly
+Research - aly
 
 Abstract - Anir
 
